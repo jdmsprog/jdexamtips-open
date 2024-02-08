@@ -1,3 +1,7 @@
+# 중동중학교 코딩 동아리 2023 - jdexamtips-open
+(이호진, 고건, 배주환 팀 - 30325이호진) Provides all the information for the School exams  
+2023년 중동중학교 코딩 동아리 학생 작품입니다. 자세한 내용은 하단 설명 참조바랍니다  
+
 ## jdexamtips-open
 
 > Provides all the information for the School exams

@@ -1,8 +1,8 @@
 {
   "name": "jdexamtips-open",
   "version": "1.0.0",
-  "description": "Provides all the information for the School exams",
-  "author": "fastline",
+  "description": "30325_Hojin_Lee_Provides all the information for the School exams",
+  "author": "Hojin_Lee_fastline",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
